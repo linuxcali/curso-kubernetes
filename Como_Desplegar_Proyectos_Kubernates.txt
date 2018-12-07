@@ -1,0 +1,7 @@
+1. Definir los volumenes de persistencia (persistence volumes)
+
+2. Definir las claves (Secrets) de las aplicaciones y bases de datos
+
+3. Desplegar base de datos
+
+4. Desplegar aplicación
